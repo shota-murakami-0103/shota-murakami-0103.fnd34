@@ -39,7 +39,6 @@ ol {
 #comment form {
   display: inline-block;
   text-align: left;
-  margin-bottom: 10px;
 }
 
 #comment form input[type="text"],
@@ -71,4 +70,3 @@ ol {
 #comment-list span {
   font-weight: bold;
 }
-
